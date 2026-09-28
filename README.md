@@ -117,7 +117,7 @@ This allowed calculations such as:
 Revenue = Quantity × Pizza Price
 and enabled product-level and category-level analysis.
 
-💡 Key Insights
+##💡 Key Insights
 The analysis provides insights into:
 Overall sales performance through total orders, quantity sold, and revenue.
 Customer preferences by identifying the most popular pizza sizes and products.
@@ -129,7 +129,7 @@ Lower-performing products that may require further business evaluation.
 
 These insights can help a pizza business understand what customers are buying, which products contribute most to revenue, and when demand is highest.
 
-📈 Visualizations
+## 📈 Visualizations
 
 Although the core of this project is SQL-based, the analysis can be presented through visualizations to make business insights easier to understand.
 Potential visualizations include:
@@ -146,7 +146,7 @@ Potential visualizations include:
 
 These visualizations can be created using tools such as Excel, Power BI, or Python as an extension of the SQL analysis.
 
-📁 Project Structure
+## 📁 Project Structure
 Pizza-Sales-SQL-Analysis/
 │
 ├── Data/
@@ -161,7 +161,8 @@ Pizza-Sales-SQL-Analysis/
 │
 └── README.md
 
-📝 Conclusion
+
+## Conclusion
 
 This project demonstrates how SQL can be used to analyze real-world transactional data and convert it into meaningful business information.By connecting the orders, order_details, pizza, and pizza_type tables, the analysis provides a complete view of pizza sales performance. SQL aggregation, filtering, grouping, ranking, and JOIN operations were used to identify important patterns in orders, quantities, revenue, pizza sizes, products, and categories.
 The analysis helps answer important business questions such as which pizzas are most popular, which products generate higher revenue, which categories have stronger demand, and how ordering patterns change over time.From a business perspective, these insights can support inventory planning, product strategy, promotional decisions, revenue analysis, and operational planning.
